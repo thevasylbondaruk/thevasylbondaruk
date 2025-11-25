@@ -1,16 +1,27 @@
-## Hi there 👋
+<h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
+<a href="https://www.codewars.com/users/thevasylbondaruk"><img src="https://www.codewars.com/users/thevasylbondaruk/badges/large" alt="Codewars stats"></a>
 
-<!--
-**thevasylbondaruk/thevasylbondaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### Front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+   <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
+  <img src="https://img.shields.io/badge/Material%20UI-282c34?logo=mui&logoColor=007fff" height="25">
+  <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
+  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-282c34?logo=redux&logoColor=764abc" height="25">
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-282c34?logo=react&logoColor=ec5990" height="25">
+  <img src="https://img.shields.io/badge/React%20Router-282c34?logo=react-router&logoColor=ca4245" height="25">
+  <img src="https://img.shields.io/badge/React%20Table-282c34?logo=react&logoColor=61dafb" height="25">
+  <img src="https://img.shields.io/badge/Webpack-282c34?logo=webpack" height="25">
+</p>
+
+#### Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
+  <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
+  <img src="https://img.shields.io/badge/Docker-282c34?logo=docker" height="25">
+</p>

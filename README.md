@@ -27,3 +27,11 @@
   <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
   <img src="https://img.shields.io/badge/Docker-282c34?logo=docker" height="25">
 </p>
+
+#### Additional stack
+
+<p>
+  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
+  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
+  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop&logoColor=31a8ff" height="25">
+</p>

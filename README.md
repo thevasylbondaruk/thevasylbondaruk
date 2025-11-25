@@ -6,7 +6,9 @@
 #### Front-end
 
 <p>
-   <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
+  <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
+  <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
   <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
   <img src="https://img.shields.io/badge/Material%20UI-282c34?logo=mui&logoColor=007fff" height="25">
   <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">

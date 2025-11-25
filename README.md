@@ -40,42 +40,50 @@ while(true) {
 
 ---
 
-#### Front-end
+### Front-end
 
 <p>
   <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="30"> 
   <img src="https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/SASS-282c34?logo=sass" height="30">
-  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="30">
-  <img src="https://img.shields.io/badge/React-282c34?logo=react" height="30">
-  <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="30">
-  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="30">
-  <img src="https://img.shields.io/badge/Material%20UI-282c34?logo=mui&logoColor=007fff" height="30">
-  <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="30">
-  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="30">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-282c34?logo=redux&logoColor=764abc" height="30">
-  <img src="https://img.shields.io/badge/Webpack-282c34?logo=webpack" height="30">
+  <img src="https://img.shields.io/badge/SASS-cc6699?logo=sass&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="30">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282c34" height="30">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=282c34" height="30">
 </p>
 
-#### Back-end
+### Back-end
 
 <p>
-  <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="30">
-  <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="30">
-  <img src="https://img.shields.io/badge/Docker-282c34?logo=docker" height="30">
+  <img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/pgAdmin4-003F87?logo=postgresql&logoColor=fff" height="30">
 </p>
 
-#### Additional stack
+### Tools & Project Generators
 
 <p>
-  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="30">
-  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="30">
-  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop&logoColor=31a8ff" height="30">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/create--next--app-282c34?logo=next.js" height="30">
+  <img src="https://img.shields.io/badge/create--vite-646CFF?logo=vite&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/create--react--app-61DAFB?logo=react&logoColor=282c34" height="30">
+  <img src="https://img.shields.io/badge/Turbopack-FF4785?logo=next.js&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/SWC-000000?logo=swc&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/React%20Compiler-61DAFB?logo=react&logoColor=282c34" height="30">
 </p>
 
-#### Operating systems
+### Operating systems
 
 <p>
-  <img src="https://img.shields.io/badge/macOS-282c34?logo=apple" height="30">
-  <img src="https://img.shields.io/badge/Linux-282c34?logo=linux" height="30">
+  <img src="https://img.shields.io/badge/macOS-999999?logo=apple&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" height="30">
 </p>

@@ -50,11 +50,12 @@ while(true) {
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282c34" height="30">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30"> 
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=282c34" height="30">
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=282c34" height="30">
+
 </p>
 
 ### Back-end

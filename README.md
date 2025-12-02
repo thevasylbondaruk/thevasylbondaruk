@@ -21,13 +21,12 @@ But my true passion has always been **computers**.
 ---
 
 #### :sweat_smile: How my brain feels while learning
-```javascript
-const brain = ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"];
-
-while(true) {
-  brain.push("coffee");
-  console.log("Upgrading Frontend skills…", brain);
-}
+```js
+const brain = {
+  stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"],
+  status: "learning",
+  fuel: "coffee ☕",
+};
 ```
 
 ---

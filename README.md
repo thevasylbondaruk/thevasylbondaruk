@@ -25,7 +25,7 @@ But my true passion has always been **computers**.
 const brain = {
   stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"],
   status: "learning",
-  fuel: "coffee ☕",
+  fuel: "coffee",
 };
 ```
 

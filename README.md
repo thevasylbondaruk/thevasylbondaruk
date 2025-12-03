@@ -49,17 +49,21 @@ const brain = {
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282c34" height="30">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="30">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30"> 
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=282c34" height="30">
+  <img src="https://img.shields.io/badge/React%20Compiler-61DAFB?logo=react&logoColor=282c34" height="30"> 
+</p>
+<p>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">
-
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">  
 </p>
 
 ### Back-end
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/pgAdmin4-003F87?logo=postgresql&logoColor=fff" height="30">
 </p>
@@ -69,10 +73,8 @@ const brain = {
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/create--next--app-282c34?logo=next.js" height="30">
-  <img src="https://img.shields.io/badge/create--vite-646CFF?logo=vite&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/create--react--app-61DAFB?logo=react&logoColor=282c34" height="30">
-  <img src="https://img.shields.io/badge/React%20Compiler-61DAFB?logo=react&logoColor=282c34" height="30">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=282c34" height="30">
+  <img src="https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=fff" height="30">
 </p>
 
 ### Operating systems

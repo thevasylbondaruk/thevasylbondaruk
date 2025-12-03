@@ -44,7 +44,7 @@ const brain = {
 <p>
   <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="30"> 
   <img src="https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/SASS-cc6699?logo=sass&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/SCSS-(Sass)-E53E3E?logo=sass&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="30">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282c34" height="30">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30">

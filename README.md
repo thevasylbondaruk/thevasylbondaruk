@@ -47,12 +47,9 @@ const brain = {
   <img src="https://img.shields.io/badge/SCSS-(Sass)-E53E3E?logo=sass&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="30">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282c34" height="30">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30"> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="30">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30"> 
-  <img src="https://img.shields.io/badge/React%20Compiler-61DAFB?logo=react&logoColor=282c34" height="30"> 
 </p>
 <p>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30">

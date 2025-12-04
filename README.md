@@ -78,6 +78,13 @@ const brain = {
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" height="30">
 </p>
 
+### Code Quality
+
+<p>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000" height="30">
+</p>
+
 ### Operating systems
 
 <p>

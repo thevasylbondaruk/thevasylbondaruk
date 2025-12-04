@@ -60,6 +60,17 @@ const brain = {
   <img src="https://img.shields.io/badge/HeroUI-FF6F61?logoColor=fff" height="30">
 </p>
 
+### API / HTTP :earth_americas:
+
+<p>
+  <img src="https://img.shields.io/badge/REST-0088CC?logo=rest&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff" height="30">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/fetch-FF6F61?logo=javascript&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=fff" height="30">
+</p>
+
 ### Back-end :wrench:
 
 <p>

@@ -83,8 +83,8 @@ const brain = {
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=282c34" height="30">
-  <img src="https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=fff" height="30">
 </p>
 
 ### Architecture :office: & Code Quality :white_check_mark:

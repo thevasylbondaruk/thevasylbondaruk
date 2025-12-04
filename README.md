@@ -39,7 +39,7 @@ const brain = {
 
 ---
 
-### Front-end
+### Front-end :computer:
 
 <p>
   <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="30"> 
@@ -56,10 +56,11 @@ const brain = {
 </p>
 <p>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">  
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">   
+  <img src="https://img.shields.io/badge/HeroUI-FF6F61?logoColor=fff" height="30">
 </p>
 
-### Back-end
+### Back-end :wrench:
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=fff" height="30">
@@ -68,7 +69,15 @@ const brain = {
   <img src="https://img.shields.io/badge/pgAdmin4-003F87?logo=postgresql&logoColor=fff" height="30">
 </p>
 
-### Tools & Project Generators
+### Testing :flashlight:
+
+<p> 
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff" height="30"> <!-- E2E-тесты (end-to-end) — это тесты, которые проверяют приложение «от начала до конца» -->
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=fff" height="30"> <!-- Тестирование компонентов — это проверка работы отдельных UI-элементов в изоляции от остального приложения.  -->
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" height="30"> <!--Юнит-тесты — это тесты, которые проверяют работу отдельных, маленьких частей кода: функций, методов, классов. -->
+</p>
+
+### Tools & Project Generators :open_file_folder:
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="30">
@@ -78,14 +87,19 @@ const brain = {
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" height="30">
 </p>
 
-### Code Quality
+### Architecture :office: & Code Quality :white_check_mark:
 
+<p>
+  <img src="https://img.shields.io/badge/FSD-Feature%20Sliced-6f42c1?logo=react&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/Classical%20Frontend-282c34?logo=html5&logoColor=fff" height="30">
+</p>
+<p/>
 <p>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000" height="30">
 </p>
 
-### Operating systems
+### Operating systems :cd:
 
 <p>
   <img src="https://img.shields.io/badge/macOS-999999?logo=apple&logoColor=fff" height="30">

@@ -49,7 +49,7 @@ const brain = {
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282c34" height="30">
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30"> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="30">
+ <!-- <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="30"> -->
 </p>
 <p>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30">
@@ -57,7 +57,7 @@ const brain = {
   <img src="https://img.shields.io/badge/HeroUI-FF6F61?logoColor=fff" height="30">
 </p>
 
-### API / HTTP :earth_americas:
+<!-- ### API / HTTP :earth_americas:
 
 <p>
   <img src="https://img.shields.io/badge/REST-0088CC?logo=rest&logoColor=fff" height="30">
@@ -66,9 +66,9 @@ const brain = {
 <p>
   <img src="https://img.shields.io/badge/fetch-FF6F61?logo=javascript&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=fff" height="30">
-</p>
+</p> -->
 
-### Back-end :wrench:
+<!-- ### Back-end :wrench:
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=fff" height="30">
@@ -76,14 +76,15 @@ const brain = {
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/pgAdmin4-003F87?logo=postgresql&logoColor=fff" height="30">
 </p>
+-->
 
-### Testing :flashlight:
+<!-- ### Testing :flashlight:
 
 <p> 
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff" height="30"> <!-- E2E-тесты (end-to-end) — это тесты, которые проверяют приложение «от начала до конца» -->
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=fff" height="30"> <!-- Тестирование компонентов — это проверка работы отдельных UI-элементов в изоляции от остального приложения.  -->
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" height="30"> <!--Юнит-тесты — это тесты, которые проверяют работу отдельных, маленьких частей кода: функций, методов, классов. -->
-</p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff" height="30"> --> <!-- E2E-тесты (end-to-end) — это тесты, которые проверяют приложение «от начала до конца» -->
+  <!-- <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=fff" height="30"> --> <!-- Тестирование компонентов — это проверка работы отдельных UI-элементов в изоляции от остального приложения.  -->
+  <!-- <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" height="30"> --> <!--Юнит-тесты — это тесты, которые проверяют работу отдельных, маленьких частей кода: функций, методов, классов. -->
+<!-- </p> -->
 
 ### Tools & Project Generators :open_file_folder:
 

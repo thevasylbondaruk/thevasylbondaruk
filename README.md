@@ -23,7 +23,7 @@ But my true passion has always been **computers**.
 #### :sweat_smile: How my brain feels while learning
 ```js
 const brain = {
-  stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"],
+  stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
   status: "learning",
   fuel: "coffee",
 };
@@ -48,13 +48,13 @@ const brain = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="30">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282c34" height="30">
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff" height="30"> 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30">
+  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff" height="30"> -->
  <!-- <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="30"> -->
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">   
-  <img src="https://img.shields.io/badge/HeroUI-FF6F61?logoColor=fff" height="30">
+  <!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=fff" height="30"> -->
+  <!-- <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" height="30">    -->
+  <!-- <img src="https://img.shields.io/badge/HeroUI-FF6F61?logoColor=fff" height="30"> -->
 </p>
 
 <!-- ### API / HTTP :earth_americas:
@@ -93,24 +93,5 @@ const brain = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" height="30">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=282c34" height="30">
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=fff" height="30">
-</p>
-
-### Architecture :office: & Code Quality :white_check_mark:
-
-<p>
-  <img src="https://img.shields.io/badge/FSD-Feature%20Sliced-6f42c1?logo=react&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/Classical%20Frontend-282c34?logo=html5&logoColor=fff" height="30">
-</p>
-<p/>
-<p>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000" height="30">
-</p>
-
-### Operating systems :cd:
-
-<p>
-  <img src="https://img.shields.io/badge/macOS-999999?logo=apple&logoColor=fff" height="30">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" height="30">
+  <!-- <img src="https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=fff" height="30"> -->
 </p>

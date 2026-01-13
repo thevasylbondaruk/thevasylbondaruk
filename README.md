@@ -23,7 +23,7 @@ But my true passion has always been **computers**.
 #### :sweat_smile: How my brain feels while learning
 ```js
 const brain = {
-  stack: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'TypeScript', 'React'],
+  stack: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'React', 'TypeScript'],
   status: "learning",
   fuel: "coffee",
 };

@@ -4,6 +4,7 @@
 
 ---
 
+
 # About Me
 
 I am an aspiring Frontend Developer from Ukraine, currently living in Italy.

@@ -7,7 +7,7 @@
 
 # About Me
 
-I am an aspiring Frontend Developer from Ukraine, currently living in Italy.
+I am an aspiring Frontend Developer from Ukraine.
 
 I am approaching development consciously: I practice a lot, study modern approaches, and gradually build my own projects. I don’t have commercial experience yet, but I have discipline, a strong interest in technology, and a desire to grow in this field.
 
